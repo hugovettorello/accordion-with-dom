@@ -37,7 +37,7 @@ body{
 
 .accordion .content-container .answer{
     padding-top: 15px;
-    font-size: 22px;
+    font-size: 18px;
     line-height: 1.5;
     width: 100%;
     height: 0px;
@@ -46,6 +46,6 @@ body{
 }
 
 
-.accordion .content-conteiner.active .answer{
-    height: 150px;
+.accordion .content-container.active .answer{
+    height: 200px;
 }
